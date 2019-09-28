@@ -1,0 +1,138 @@
+,Neighborhood,Latitude,Longitude,1st Parent Category,2nd Parent Category,3rd Parent Category,4th Parent Category,5th Parent Category,6th Parent Category,7th Parent Category,8th Parent Category,9th Parent Category,10th Parent Category
+0,Agincourt North,43.8054405769,-79.266712166,Restaurant,Fast Food,Retail,Cafe,Liquor Store,Park,Convenience Store,Medical,Gym,Bank
+1,Agincourt South-Malvern West,43.788657551100000,-79.2656117966,Restaurant,Retail,Bank,University,Hotel,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment
+2,Alderwood,43.6049368959,-79.5416109273,Fast Food,Coffee Shop,Convenience Store,Medical,University,Hotel,Bank,Bar/Club,Cafe,Entertainment
+3,Annex,43.6715854351,-79.4040006243,Restaurant,Fast Food,Cafe,Retail,Bar/Club,Park,Coffee Shop,Medical,Grocery,University
+4,Banbury-Don Mills,43.737657004300000,-79.3497179808,Retail,Coffee Shop,Fast Food,Restaurant,Cafe,Medical,University,Gym,Bank,Bar/Club
+5,Bathurst Manor,43.7648133077,-79.4560551588,Park,Athletics & Sports,Convenience Store,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Entertainment,Event Hall
+6,Bay Street Corridor,43.6575113467,-79.3857212509,Restaurant,Coffee Shop,Retail,Cafe,Fast Food,Bar/Club,Salon,Gym,Hotel,Office
+7,Bayview Village,43.7763605236,-79.3771168597,Retail,Professional Services,Park,Outdoor,University,Gym,Bank,Bar/Club,Cafe,Coffee Shop
+8,Bayview Woods-Steeles,43.7968018666,-79.3821179542,Park,Athletics & Sports,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment,Event Hall
+9,Bedford Park-Nortown,43.731486231800000,-79.4202273481,Restaurant,Fast Food,Cafe,Coffee Shop,Retail,Bar/Club,Grocery,University,Hotel,Bank
+10,Beechborough-Greenbrook,43.6932164866,-79.4794725057,Fast Food,Restaurant,Gym,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+11,Bendale ,43.7603663086,-79.2574003723,Park,Restaurant,Outdoor,Museum ,University,Gym,Bank,Bar/Club,Cafe,Coffee Shop
+12,Birchcliffe-Cliffside,43.694681978600000,-79.2650925923,University,Entertainment,Cafe,Athletics & Sports,Restaurant,Residential,Bank,Bar/Club,Salon,Coffee Shop
+13,Black Creek,43.7648902472,-79.5219793188,Athletics & Sports,Retail,Cafe,Grocery,Medical,Hotel,Bank,Bar/Club,Coffee Shop,Convenience Store
+14,Blake-Jones ,43.67617287980000,-79.3373941732,Restaurant,Cafe,Retail,Coffee Shop,Hotel,Bar/Club,Convenience Store,Fast Food,University,Bank
+15,Briar Hill-Belgravia ,43.699024381,-79.4528512962,Grocery,Bank,Retail,Cafe,Professional Services,Coffee Shop,Outdoor,Fast Food,Medical,Transportation
+16,Bridle Path-Sunnybrook-York Mills ,43.7310131378,-79.3789041759,Cafe,Gym,Retail,Restaurant,Coffee Shop,Outdoor,Transportation,University,Bank,Bar/Club
+17,Broadview North ,43.688825119200000,-79.3556295118,Retail,Entertainment,Fast Food,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+18,Brookhaven-Amesbury ,43.701326305600000,-79.485589259,Cafe,Park,University,Hotel,Bank,Bar/Club,Coffee Shop,Convenience Store,Entertainment,Event Hall
+19,Cabbagetown-South St.James Town ,43.667647727400000,-79.36610665810000,Restaurant,Cafe,Retail,Coffee Shop,Park,Fast Food,Grocery,Bar/Club,Liquor Store,Bank
+20,Caledonia-Fairbank ,43.688568651000000,-79.4552120796,Park,Fast Food,Grocery,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+21,Casa Loma ,43.6818521005,-79.4080066472,Park,Museum ,Restaurant,Cafe,University,Gym,Bank,Bar/Club,Coffee Shop,Convenience Store
+22,Centennial Scarborough ,43.7823764958,-79.1508432723,Athletics & Sports,Park,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment,Event Hall
+23,Church-Yonge Corridor ,43.6596488635,-79.3790171666,Restaurant,Coffee Shop,Retail,Fast Food,Bar/Club,Cafe,Hotel,Salon,Grocery,Park
+24,Clairlea-Birchmount ,43.713592375,-79.28138178420000,Transportation,Cafe,Coffee Shop,Park,University,Hotel,Bank,Bar/Club,Convenience Store,Entertainment
+25,Clanton Park ,43.7419784331,-79.4463025758,Professional Services,Park,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment
+26,Cliffcrest ,43.7211211669,-79.2355295687,Fast Food,Retail,Restaurant,Park,University,Gym,Bank,Bar/Club,Cafe,Coffee Shop
+27,Corso Italia-Davenport ,43.6776609067,-79.4474693307,Restaurant,Cafe,Coffee Shop,Athletics & Sports,Bank,Convenience Store,Fast Food,Hotel,Bar/Club,Entertainment
+28,Danforth ,43.6840254743,-79.32981940890000,Restaurant,Cafe,Bar/Club,Coffee Shop,Fast Food,Liquor Store,Gym,Convenience Store,Athletics & Sports,Retail
+29,Danforth East York ,43.6894680941,-79.3314033847,Athletics & Sports,Restaurant,Coffee Shop,Park,Fast Food,Grocery,Hotel,Bank,Bar/Club,Cafe
+30,Don Valley Village ,43.783293686900000,-79.3536441306,Fast Food,Liquor Store,Grocery,Cafe,Athletics & Sports,Restaurant,Residential,Bank,Bar/Club,Salon
+31,Dorset Park ,43.759274372700000,-79.2789079388,Retail,Restaurant,Fast Food,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+32,Dovercourt-Wallace Emerson-Junction ,43.6656769317,-79.4385406986,Cafe,Park,Grocery,Gym,Bank,Bar/Club,Restaurant,Medical,University,Coffee Shop
+33,Downsview-Roding-CFB ,43.7332923453,-79.4904973518,Park,Office,Moving Target,University,Gym,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+34,Dufferin Grove ,43.6554283326,-79.4373410365,Retail,Restaurant,Bar/Club,Cafe,Fast Food,Coffee Shop,Grocery,Park,Liquor Store,Athletics & Sports
+35,East End-Danforth ,43.684173877700000,-79.2993586723,Restaurant,Athletics & Sports,Coffee Shop,Fast Food,Gym,Park,Transportation,Bank,Bar/Club,Cafe
+36,Edenbridge-Humber Valley,43.6708859094,-79.5224577643,Park,Fast Food,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment
+37,Eglinton East ,43.7409222979,-79.245598036,Athletics & Sports,Restaurant,Fast Food,Grocery,Gym,Hotel,Bank,Bar/Club,Cafe,Coffee Shop
+38,Elms-Old Rexdale,43.721518868400000,-79.54898271650000,Restaurant,Athletics & Sports,Retail,Professional Services,Office,Gym,Bank,Bar/Club,Cafe,Coffee Shop
+39,Englemount-Lawrence ,43.7203446653,-79.43740855,Retail,Bank,Park,Medical,University,Gym,Bar/Club,Cafe,Coffee Shop,Convenience Store
+40,Eringate-Centennial-West Deane ,43.6580167554,-79.5804452375,Athletics & Sports,Restaurant,Coffee Shop,Park,Convenience Store,Fast Food,Hotel,Bank,Bar/Club,Cafe
+41,Etobicoke West Mall ,43.6450626244,-79.5689387722,Coffee Shop,Professional Services,Museum ,Grocery,University,Hotel,Bank,Bar/Club,Cafe,Convenience Store
+42,Flemingdon Park ,43.715929754000000,-79.3326459673,Restaurant,Fast Food,Gym,Coffee Shop,Park,Museum,Medical,Grocery,University,Bank
+43,Forest Hill North ,43.7042175596,-79.42814316480000,Restaurant,Fast Food,Grocery,Cafe,Salon,Retail,Bank,Park,Outdoor,Coffee Shop
+44,Forest Hill South ,43.694525756400000,-79.4143178642,Park,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment,Event Hall
+45,Glenfield-Jane Heights ,43.745635749800000,-79.5134653159,Park,Athletics & Sports,Coffee Shop,Hotel,Bank,Bar/Club,Cafe,Convenience Store,Entertainment,Event Hall
+46,Greenwood-Coxwell ,43.6726123109,-79.3243180234,Restaurant,Cafe,Fast Food,Grocery,Gym,Bar/Club,Park,Entertainment,Transportation,University
+47,Guildwood ,43.7488293378,-79.1950553496,Fast Food,Hotel,Bar/Club,Coffee Shop,Park,University,Bank,Cafe,Convenience Store,Entertainment
+48,Henry Farm ,43.7711441425,-79.3412406671,Hotel,Restaurant,Fast Food,Grocery,Transportation,University,Bank,Bar/Club,Cafe,Coffee Shop
+49,High Park North ,43.6575649139,-79.4663021661,Park,Cafe,Convenience Store,Fast Food,Medical,Gym,University,Hotel,Bank,Bar/Club
+50,High Park-Swansea ,43.6450645834,-79.46787222430000,Outdoor,Athletics & Sports,Park,Event Hall,Cafe,Entertainment,Hotel,Bank,Bar/Club,Coffee Shop
+51,Highland Creek ,43.7907747688,-79.17747247290000,Residential,Professional Services,Park,Transportation,University,Gym,Bank,Bar/Club,Cafe,Coffee Shop
+52,Hillcrest Village ,43.8029878281,-79.3548039999,Residential,Park,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment
+53,Humber Bay Shores,-79.5001366364,43.615923861300000,Cafe,Athletics & Sports,Bar/Club,Restaurant,Grocery,Transportation,Hotel,Bank,Coffee Shop,Convenience Store
+54,Humber Heights-Westmount,43.6922328007,-79.5224162029,Park,Fast Food,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment
+55,Humber Summit ,43.7563033,-79.56596330000000,Retail,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment,Event Hall
+56,Humbermede ,43.7434295175,-79.5423671192,Athletics & Sports,Professional Services,Park,Grocery,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+57,Humewood-Cedarvale ,43.6913698124,-79.4276833521,Athletics & Sports,Convenience Store,Park,Outdoor,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Entertainment
+58,Ionview ,43.735364407700000,-79.27247049420000,Bank,Restaurant,Coffee Shop,Fast Food,Medical,Transportation,University,Gym,Bar/Club,Cafe
+59,Islington-City Centre West ,43.6334633497,-79.5433165354,Fast Food,Restaurant,Retail,Cafe,University,Hotel,Bank,Bar/Club,Coffee Shop,Convenience Store
+60,Junction Area ,43.6678897668,-79.47143987360000,Retail,Restaurant,Cafe,Coffee Shop,Bar/Club,Grocery,Fast Food,Transportation,Liquor Store,Medical
+61,Keelesdale-Eglinton West ,43.6857274725,-79.4714371062,Retail,Restaurant,Fast Food,Cafe,University,Hotel,Bank,Bar/Club,Coffee Shop,Convenience Store
+62,Kennedy Park ,43.725555723200000,-79.2603822071,Convenience Store,Retail,Coffee Shop,University,Hotel,Bank,Bar/Club,Cafe,Entertainment,Event Hall
+63,Kensington-Chinatown ,43.653554131600000,-79.3972398768,Restaurant,Cafe,Bar/Club,Coffee Shop,Grocery,Fast Food,Retail,Park,University,Gym
+64,Kingsview Village-The Westway,43.698992572200000,-79.5478633059,Coffee Shop,Fast Food,Grocery,University,Transportation,Bank,Bar/Club,Cafe,Convenience Store,Entertainment
+65,Kingsway South ,43.6535204276,-79.5105768007,Athletics & Sports,Bar/Club,Park,Hotel,Bank,Cafe,Coffee Shop,Convenience Store,Entertainment,Event Hall
+66,L'Amoreaux ,43.6574201304,-79.4960452553,Restaurant,Cafe,Bank,Coffee Shop,Fast Food,Gym,University,Hotel,Bar/Club,Convenience Store
+67,Lambton Baby Point ,43.7957160278,-79.3140842409,Park,Outdoor,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment
+68,Lansing-Westgate ,43.754271154900000,-79.4247477215,Park,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment,Event Hall
+69,Lawrence Park North ,43.73006017230000,-79.40397836360000,Restaurant,Cafe,Coffee Shop,Fast Food,Retail,Bank,Bar/Club,Athletics & Sports,Medical,Transportation
+70,Lawrence Park South ,43.71721170480000,-79.40603941020000,Retail,Cafe,Gym,Salon,Restaurant,University,Bank,Bar/Club,Coffee Shop,Convenience Store
+71,Leaside-Bennington,43.7037966281,-79.3660723439,Restaurant,Coffee Shop,Athletics & Sports,Retail,Fast Food,Cafe,Park,Convenience Store,Gym,Bank
+72,Little Portugal,43.6475359304,-79.4303227131,Restaurant,Bar/Club,Cafe,Coffee Shop,Athletics & Sports,Salon,Park,Fast Food,Grocery,Gym
+73,Long Branch,43.592361688500000,-79.5333454492,Restaurant,Coffee Shop,Liquor Store,Bar/Club,Cafe,Convenience Store,Fast Food,Grocery,Medical,Hotel
+74,Malvern ,43.8036581967,-79.22251661900000,Fast Food,Coffee Shop,Gym,Medical,University,Hotel,Bank,Bar/Club,Cafe,Convenience Store
+75,Maple Leaf,43.7155739408,-79.48075801740000,Coffee Shop,Restaurant,Convenience Store,Fast Food,University,Hotel,Bank,Bar/Club,Cafe,Entertainment
+76,Markland Wood ,43.6335417462,-79.57343154740000,Fast Food,Bank,Retail,University,Hotel,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment
+77,Milliken ,43.8206907942,-79.2750089244,Park,Fast Food,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment
+78,Mimico,43.615923861300000,-79.5001366364,Cafe,Athletics & Sports,Bar/Club,Restaurant,Grocery,Transportation,Hotel,Bank,Coffee Shop,Convenience Store
+79,Morningside ,43.782398614500000,-79.2070411878,Fast Food,Coffee Shop,Park,Liquor Store,Retail,Convenience Store,Medical,Grocery,Gym,Bank
+80,Moss Park ,43.6565176231,-79.3672970317,Restaurant,Retail,Fast Food,Coffee Shop,Bar/Club,Athletics & Sports,Gym,Park,Entertainment,Event Hall
+81,Mount Dennis ,43.6881440868,-79.4999890581,Restaurant,Convenience Store,Fast Food,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Entertainment
+82,Mount Olive-Silverstone-Jamestown ,43.7468678027,-79.58725926460000,Restaurant,Coffee Shop,Park,University,Hotel,Bank,Bar/Club,Cafe,Convenience Store,Entertainment
+83,Mount Pleasant East ,43.7048521692,-79.3849239458,Restaurant,Cafe,Fast Food,Coffee Shop,Gym,Retail,Bar/Club,University,Hotel,Bank
+84,Mount Pleasant West ,43.70443517060000,-79.393359554,Restaurant,Cafe,Coffee Shop,Fast Food,Gym,Bar/Club,Retail,Entertainment,Medical,Grocery
+85,New Toronto ,43.6005885981,-79.5103580889,Restaurant,Bar/Club,Coffee Shop,Grocery,University,Hotel,Bank,Cafe,Convenience Store,Entertainment
+86,Newtonbrook East ,43.791535791,-79.4059374472,Retail,Cafe,University,Hotel,Bank,Bar/Club,Coffee Shop,Convenience Store,Entertainment,Event Hall
+87,Niagara ,43.6366808791,-79.412420401,Bar/Club,Restaurant,Entertainment,Athletics & Sports,Retail,Cafe,Park,Hotel,Coffee Shop,Fast Food
+88,North Riverdale ,43.671995149,-79.3512604136,Park,Cafe,Athletics & Sports,Hotel,Bank,Bar/Club,Coffee Shop,Convenience Store,Entertainment,Event Hall
+89,North St.James Town ,43.6696234081,-79.3752465775,Coffee Shop,Grocery,Restaurant,Fast Food,Hotel,Bank,Bar/Club,Park,Medical,Transportation
+90,O'Connor-Parkview ,43.6974081338,-79.2797083433,Fast Food,Athletics & Sports,Gym,Salon,Retail,Bank,Cafe,Medical,Transportation,Bar/Club
+91,Oakridge ,43.6885655593,-79.4397854793,Restaurant,Cafe,Park,Fast Food,Transportation,University,Gym,Bank,Bar/Club,Coffee Shop
+92,Oakwood Village ,43.7068004906,-79.3122277655,Restaurant,Cafe,Coffee Shop,Fast Food,Park,Convenience Store,Grocery,University,Hotel,Bank
+93,Old East York ,43.696781271200000,-79.3354883594,Restaurant,Bar/Club,Cafe,University,Hotel,Bank,Coffee Shop,Convenience Store,Entertainment,Event Hall
+94,Palmerston-Little Italy ,43.6591571037,-79.41840872740000,Restaurant,Cafe,Fast Food,Bar/Club,Retail,Park,Coffee Shop,Grocery,University,Gym
+95,Parkwoods-Donalda ,43.755033474500000,-79.3301795171,Park,Fast Food,Grocery,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+96,Pelmo Park-Humberlea ,43.7175146009,-79.52828220240000,Retail,Athletics & Sports,Cafe,Hotel,Bank,Bar/Club,Coffee Shop,Convenience Store,Entertainment,Event Hall
+97,Playter Estates-Danforth ,43.6797004697,-79.3548872857,Restaurant,Cafe,Bar/Club,Retail,Coffee Shop,Grocery,Gym,Salon,Bank,Outdoor
+98,Pleasant View ,43.786981759,-79.33494842520000,Retail,Restaurant,Cafe,Fast Food,Athletics & Sports,Park,Convenience Store,Gym,Bank,Bar/Club
+99,Princess-Rosethorn ,43.666050604300000,-79.5445592919,Professional Services,Park,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment
+100,Regent Park ,43.659992142200000,-79.3605088051,Restaurant,Coffee Shop,Retail,Fast Food,Liquor Store,Medical,Bar/Club,Cafe,Grocery,Athletics & Sports
+101,Rexdale-Kipling ,43.723725477200000,-79.5662284127,Retail,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment,Event Hall
+102,Rockcliffe-Smythe ,43.6747904521,-79.4944204513,Park,Fast Food,Liquor Store,Restaurant,Coffee Shop,Convenience Store,Grocery,Transportation,Gym,Bank
+103,Roncesvalles,43.646122994400000,-79.4429924472,Restaurant,Cafe,Coffee Shop,Grocery,Retail,Park,Medical,Convenience Store,Fast Food,University
+104,Rosedale-Moore Park,43.682820425300000,-79.3796694025,Park,Bank,Retail,Office,University,Gym,Bar/Club,Cafe,Coffee Shop,Convenience Store
+105,Rouge ,43.8212012569,-79.1863434458,Entertainment,Retail,Cafe,Restaurant,Fast Food,Grocery,University,Hotel,Bank,Bar/Club
+106,Runnymede-Bloor West Village,43.6592688193,-79.485708182,Restaurant,Cafe,Grocery,Athletics & Sports,Bar/Club,Coffee Shop,Fast Food,Hotel,Bank,Convenience Store
+107,Scarborough Village,43.7386518596,-79.216812619,Coffee Shop,Fast Food,Restaurant,Medical,Gym,University,Hotel,Bank,Bar/Club,Cafe
+108,South Parkdale,43.6366995242,-79.43933783120000,Restaurant,Retail,Cafe,Fast Food,Bar/Club,Medical,Athletics & Sports,Bank,Park,Outdoor
+109,South Riverdale,43.649292063500000,-79.335651321,Office,Retail,Outdoor,University,Gym,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+110,Steeles ,43.812958825900000,-79.3212070061,Restaurant,Fast Food,Retail,Medical,Grocery,University,Gym,Bank,Bar/Club,Cafe
+111,Stonegate-Queensway,43.635518132900000,-79.50112821330000,Athletics & Sports,Transportation,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment,Event Hall,Fast Food
+112,Tam O'Shanter-Sullivan ,43.7801298547,-79.3029187122,Fast Food,Restaurant,Medical,Bank,Retail,Transportation,University,Gym,Bar/Club,Cafe
+113,Taylor-Massey,43.6949981893,-79.2959011188,Park,Entertainment,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Event Hall
+114,The Beaches,43.671049993100000,-79.2996013043,Restaurant,Retail,Bar/Club,Coffee Shop,Cafe,Fast Food,Park,Athletics & Sports,Grocery,Salon
+115,Thistletown-Beaumond Heights,43.737987917300000,-79.56349101720000,Restaurant,Fast Food,Bank,Coffee Shop,Grocery,Medical,University,Hotel,Bar/Club,Cafe
+116,Thorncliffe Park,43.707749211900000,-79.3499836075,Restaurant,Fast Food,Gym,Grocery,Bank,Retail,Coffee Shop,Medical,Transportation,University
+117,Trinity-Bellwoods,43.6501763,-79.4153421634,Restaurant,Bar/Club,Fast Food,Park,Coffee Shop,Cafe,Athletics & Sports,Retail,Gym,Bank
+118,University ,43.6625062026,-79.401179748,Cafe,Restaurant,Bar/Club,Gym,Retail,Coffee Shop,Fast Food,University,Convenience Store,Liquor Store
+119,Victoria Village,43.728489019400000,-79.31487382650000,Restaurant,Professional Services,Park,Coffee Shop,Fast Food,Transportation,University,Gym,Bank,Bar/Club
+120,Waterfront Communities-The Island,43.6338803623,-79.3772023146,Transportation,University,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment,Event Hall,Fast Food
+121,West Hill,43.7674902567,-79.1766760264,Park,Professional Services,Gym,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+122,West Humber-Clairville,43.7161804033,-79.59635645350000,Retail,Hotel,Restaurant,Fast Food,Bank,Coffee Shop,Gym,University,Bar/Club,Cafe
+123,Westminster-Branson,43.7788132165,-79.4524182256,Gym,Restaurant,Professional Services,Park,University,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+124,Weston,43.702716046300000,-79.5157225505,Fast Food,Coffee Shop,Transportation,Retail,Restaurant,Convenience Store,Medical,University,Gym,Bank
+125,Weston-Pellam Park,43.67396203770000,-79.4602439114,Restaurant,Cafe,Retail,Park,Grocery,University,Gym,Bank,Bar/Club,Coffee Shop
+126,Wexford/Maryvale ,43.7485721411,-79.2986365699,Restaurant,Bar/Club,Cafe,Coffee Shop,Fast Food,Gas Station,Grocery,University,Hotel,Bank
+127,Willowdale East ,43.7706022616,-79.40148378960000,Hotel,University,Transportation,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment,Event Hall
+128,Willowdale West,43.771210491800000,-79.4275578,Retail,Park,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store,Entertainment
+129,Woburn ,43.766740239300000,-79.2285857671,Restaurant,Cafe,University,Hotel,Bank,Bar/Club,Coffee Shop,Convenience Store,Entertainment,Event Hall
+130,Woodbine Corridor,43.6767729247,-79.3154073786,Athletics & Sports,Restaurant,Cafe,Event Hall,Hotel,Bank,Bar/Club,Coffee Shop,Convenience Store,Entertainment
+131,Woodbine-Lumsden,43.694106742400000,-79.3111635266,Athletics & Sports,Restaurant,Park,Convenience Store,Liquor Store,Salon,Residential,Grocery,Bank,Bar/Club
+132,Wychwood,43.6769192679,-79.425514947,Park,Event Hall,Grocery,University,Hotel,Bank,Bar/Club,Cafe,Coffee Shop,Convenience Store
+133,Yonge-Eglinton,43.704689367700000,-79.4035901675,Restaurant,Coffee Shop,Fast Food,Gym,Retail,Athletics & Sports,Cafe,Bank,Park,Transportation
+134,Yonge-St.Clair,43.687858872,-79.3978707687,Restaurant,Coffee Shop,Cafe,Fast Food,Bar/Club,Grocery,Gym,Medical,Bank,Retail
+135,York University Heights,43.765736490900000,-79.4888829298,Restaurant,Fast Food,Salon,Retail,Bank,Bar/Club,Coffee Shop,University,Gym,Cafe
+136,Yorkdale-Glen Park ,43.714671529300000,-79.4571080738,Restaurant,Fast Food,Athletics & Sports,Retail,Bank,Cafe,Coffee Shop,Grocery,Gym,Hotel

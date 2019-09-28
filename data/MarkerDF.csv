@@ -1,0 +1,169 @@
+Venue,Parent Category,Color,Marker Icon
+African Restaurant,Restaurant,#D88FD8,cutlery
+American Restaurant,Restaurant,#D88FD8,cutlery
+Asian Restaurant,Restaurant,#D88FD8,cutlery
+Burger Joint,Restaurant,#D88FD8,cutlery
+Caribbean Restaurant,Restaurant,#D88FD8,cutlery
+Chinese Restaurant,Restaurant,#D88FD8,cutlery
+Diner,Restaurant,#D88FD8,cutlery
+Dumpling Restaurant,Restaurant,#D88FD8,cutlery
+Eastern European Restaurant,Restaurant,#D88FD8,cutlery
+Egyptian Restaurant,Restaurant,#D88FD8,cutlery
+Ethiopian Restaurant,Restaurant,#D88FD8,cutlery
+Falafel Restaurant,Restaurant,#D88FD8,cutlery
+Filipino Restaurant,Restaurant,#D88FD8,cutlery
+French Restaurant,Restaurant,#D88FD8,cutlery
+Greek Restaurant,Restaurant,#D88FD8,cutlery
+Hakka Restaurant,Restaurant,#D88FD8,cutlery
+Indian Restaurant,Restaurant,#D88FD8,cutlery
+Italian Restaurant,Restaurant,#D88FD8,cutlery
+Japanese Restaurant,Restaurant,#D88FD8,cutlery
+Korean Restaurant,Restaurant,#D88FD8,cutlery
+Latin American Restaurant,Restaurant,#D88FD8,cutlery
+Malay Restaurant,Restaurant,#D88FD8,cutlery
+Mediterranean Restaurant,Restaurant,#D88FD8,cutlery
+Mexican Restaurant,Restaurant,#D88FD8,cutlery
+Middle Eastern Restaurant,Restaurant,#D88FD8,cutlery
+Modern European Restaurant,Restaurant,#D88FD8,cutlery
+Portuguese Restaurant,Restaurant,#D88FD8,cutlery
+Restaurant,Restaurant,#D88FD8,cutlery
+Seafood Restaurant,Restaurant,#D88FD8,cutlery
+Sushi Restaurant,Restaurant,#D88FD8,cutlery
+Thai Restaurant,Restaurant,#D88FD8,cutlery
+Tibetan Restaurant,Restaurant,#D88FD8,cutlery
+Turkish Restaurant,Restaurant,#D88FD8,cutlery
+Vegetarian / Vegan Restaurant,Restaurant,#D88FD8,cutlery
+Vietnamese Restaurant,Restaurant,#D88FD8,cutlery
+Amphitheater,Event Hall,#FFA07A,music
+Community Center,Event Hall,#FFA07A,music
+Event Space,Event Hall,#FFA07A,music
+Athletics & Sports,Athletics & Sports,#00FFFF,soccer-ball-o
+Baseball Field,Athletics & Sports,#00FFFF,soccer-ball-o
+Basketball Court,Athletics & Sports,#00FFFF,soccer-ball-o
+Bowling Alley,Athletics & Sports,#00FFFF,soccer-ball-o
+Curling Ice,Athletics & Sports,#00FFFF,soccer-ball-o
+Hockey Arena,Athletics & Sports,#00FFFF,soccer-ball-o
+Hockey Field,Athletics & Sports,#00FFFF,soccer-ball-o
+Pool,Athletics & Sports,#00FFFF,soccer-ball-o
+Skating Rink,Athletics & Sports,#00FFFF,soccer-ball-o
+Volleyball Court,Athletics & Sports,#00FFFF,soccer-ball-o
+Bagel Shop,Cafe,#FFDAB9,user
+Bakery,Cafe,#FFDAB9,user
+Café,Cafe,#FFDAB9,user
+Deli / Bodega,Cafe,#FFDAB9,user
+Donut Shop,Cafe,#FFDAB9,user
+Dessert Shop,Cafe,#FFDAB9,user
+Hotpot Restaurant,Cafe,#FFDAB9,user
+Ice Cream Shop,Cafe,#FFDAB9,user
+Pastry Shop,Cafe,#FFDAB9,user
+Snack Place,Cafe,#FFDAB9,user
+Chocolate Shop,Cafe,#FFDAB9,user
+Bank,Bank,#FF00FF,usd
+Bar,Bar/Club,#00FF7F,glass
+Beer Bar,Bar/Club,#00FF7F,glass
+Cocktail Bar,Bar/Club,#00FF7F,glass
+Pub,Bar/Club,#00FF7F,glass
+Sports Bar,Bar/Club,#00FF7F,glass
+Karaoke Bar,Bar/Club,#00FF7F,glass
+Lounge,Bar/Club,,
+Beer Store,Liquor Store,#BC8F8F,beer
+Boat or Ferry,Transportation,#F08080,bus
+Bus Line,Transportation,#F08080,bus
+Bus Station,Transportation,#F08080,bus
+Bus Stop,Transportation,#F08080,bus
+Intersection,Transportation,#F08080,bus
+Train Station,Transportation,#F08080,bus
+Bookstore,Retail,#FFFF00,shopping-bag
+Bridal Shop,Retail,#FFFF00,shopping-bag
+Candy Store,Retail,#FFFF00,shopping-bag
+Clothing Store,Retail,#FFFF00,shopping-bag
+Cosmetics Shop,Retail,#FFFF00,shopping-bag
+Department Store,Retail,#FFFF00,shopping-bag
+Discount Store,Retail,#FFFF00,shopping-bag
+Electronics Store,Retail,#FFFF00,shopping-bag
+Flea Market,Retail,#FFFF00,shopping-bag
+Flower Shop,Retail,#FFFF00,shopping-bag
+Furniture / Home Store,Retail,#FFFF00,shopping-bag
+Garden Center,Retail,#FFFF00,shopping-bag
+Gift Shop,Retail,#FFFF00,shopping-bag
+Gourmet Shop,Retail,#FFFF00,shopping-bag
+Jewelry Store,Retail,#FFFF00,shopping-bag
+Kids Store,Retail,#FFFF00,shopping-bag
+Miscellaneous Shop,Retail,#FFFF00,shopping-bag
+Mobile Phone Shop,Retail,#FFFF00,shopping-bag
+Motorcycle Shop,Retail,#FFFF00,shopping-bag
+Optical Shop,Retail,#FFFF00,shopping-bag
+Pet Store,Retail,#FFFF00,shopping-bag
+Shoe Store,Retail,#FFFF00,shopping-bag
+Shopping Mall,Retail,#FFFF00,shopping-bag
+Sporting Goods Shop,Retail,#FFFF00,shopping-bag
+Thrift / Vintage Store,Retail,#FFFF00,shopping-bag
+Warehouse Store,Retail,#FFFF00,shopping-bag
+Wine Shop,Retail,#FFFF00,shopping-bag
+Women’s Store,Retail,#FFFF00,shopping-bag
+Womens Store,Retail,#FFFF00,shopping-bag
+Bubble Tea Shop,Coffee Shop,#0000CD,coffee-cup
+Coffee Shop,Coffee Shop,#0000CD,coffee-cup
+Tea Room,Coffee Shop,#0000CD,coffee-cup
+Building,Office,#FF1493,building
+Business Service,Office,#FF1493,building
+Government Building,Office,#FF1493,building
+College Stadium,University,#F5F5F5,university
+College Arts Building,University,#F5F5F5,university
+Construction & Landscaping,Professional Services,#DA70D6,spinner
+Financial or Legal Service,Professional Services,#DA70D6,spinner
+Home Service,Professional Services,#DA70D6,spinner
+IT Services,Professional Services,#DA70D6,spinner
+Locksmith,Professional Services,#DA70D6,spinner
+Other Repair Shop,Professional Services,#DA70D6,spinner
+Photography Lab,Professional Services,#DA70D6,spinner
+Convenience Store,Convenience Store,#9400D3,check-square-o
+Dance Studio,Gym,#FFFACD,heart
+Gym,Gym,#FFFACD,heart
+Gym / Fitness Center,Gym,#FFFACD,heart
+Rock Club,Gym,#FFFACD,heart
+Gym Pool,Gym,#FFFACD,heart
+Dog Run,Park,#FFEFD5,sun-o
+Park,Park,#FFEFD5,sun-o
+Playground,Park,#FFEFD5,sun-o
+Fair,Entertainment,#FFC0CB,star
+General Entertainment,Entertainment,#FFC0CB,star
+Theater,Entertainment,#FFC0CB,star
+Theme Park,Entertainment,#FFC0CB,star
+Zoo,Entertainment,#FFC0CB,star
+Zoo Exhibit,Entertainment,#FFC0CB,star
+Farmers Market,Grocery,#FF34E1,shopping-cart
+Fish Market,Grocery,#FF34E1,shopping-cart
+Food & Drink Shop,Grocery,#FF34E1,shopping-cart
+Fruit & Vegetable Store,Grocery,#FF34E1,shopping-cart
+Grocery Store,Grocery,#FF34E1,shopping-cart
+Supermarket,Grocery,#FF34E1,shopping-cart
+Market,Grocery,#FF34E1,shopping-cart
+Fast Food Restaurant,Fast Food,#E6E6FA,bolt
+Fish & Chips Shop,Fast Food,#E6E6FA,bolt
+Food Truck,Fast Food,#E6E6FA,bolt
+Fried Chicken Joint,Fast Food,#E6E6FA,bolt
+Pizza Place,Fast Food,#E6E6FA,bolt
+Sandwich Place,Fast Food,#E6E6FA,bolt
+Garden,Outdoor,#7FFFD4,tree
+River,Outdoor,#7FFFD4,tree
+Scenic Lookout,Outdoor,#7FFFD4,tree
+Trail,Outdoor,#7FFFD4,tree
+Lake,Outdoor,#7FFFD4,tree
+Campground,Outdoor,#7FFFD4,tree
+Gas Station,Gas Station,#006400,gas-pump
+Health & Beauty Service,Salon,#00008B,shower
+Spa,Salon,#00008B,shower
+Massage Studio,Salon,#00008B,shower
+History Museum,Museum ,#FF1493,star-o
+Historic Site,Museum ,#FF1493,star-o
+Science Museum,Museum,#FF1493,star-o
+Hotel,Hotel,#FOFFFF,hotel
+Hostel,Hotel,#FOFFFF,hotel
+Moving Target,Moving Target,#7FFFD4,question-mark
+Night Market,Night Market,#480082,exclamation-point
+Pharmacy,Medical,#7B68EE,heartbeat
+Medical Center,Medical,#7B68EE,heartbeat
+Public Art,Public Art,#708090,star
+Residential Building (Apartment / Condo),Residential,#7FFF00,home
+Neighborhood,Residential,#7FFF00,home
